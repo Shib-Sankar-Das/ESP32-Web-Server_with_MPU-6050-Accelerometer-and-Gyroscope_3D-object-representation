@@ -149,4 +149,8 @@ Move the sensor and see the readings changing as well as the 3D object on the br
 
 ![ESP-MPU6050-Web-Server-Arduino (1)](https://github.com/user-attachments/assets/537dd8a7-a7b4-4dbb-90d1-7e047b6b0d3e)
 
+### Demo Video
+
+https://github.com/user-attachments/assets/d525d0b9-a27f-45b3-bf2d-26cef4e26dde
+
 **Note:** the sensor drifts a bit on the X axis, despite some adjustments in the code. Many of our readers commented that that’s normal for this kind of MCUs. To reduce the drifting, some readers suggested using a complementary filter or a kalman filter.
